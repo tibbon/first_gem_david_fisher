@@ -1,5 +1,11 @@
 require "first_gem_david_fisher/version"
 
-module FirstGemDavidFisher
-  # Your code goes here...
+class String
+  def word_count
+    self.split.count
+  end
+
+  def unique_words
+    self.split.uniq
+  end
 end
