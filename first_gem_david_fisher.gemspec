@@ -6,10 +6,10 @@ require 'first_gem_david_fisher/version'
 Gem::Specification.new do |spec|
   spec.name          = "first_gem_david_fisher"
   spec.version       = FirstGemDavidFisher::VERSION
-  spec.authors       = ["David Fisher"]
-  spec.email         = ["tibbon@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["David Fisher", "Tom Dyer"]
+  spec.email         = ["tibbon@gmail.com", "tdyer@gmail.com"]
+  spec.summary       = %q{My first gem. Doesn't do much}
+  spec.description   = %q{A longer description about why I wrote this useless gem that no one should use}
   spec.homepage      = ""
   spec.license       = "MIT"
 
