@@ -1,6 +1,6 @@
 # FirstGemDavidFisher
 
-[![Gem Version](https://badge.fury.io/rb/first_gem_david_fisher.png)](http://badge.fury.io/rb/first_gem_david_fisher)[![Build Status](https://travis-ci.org/tibbon/first_gem_david_fisher.png?branch=master)](https://travis-ci.org/tibbon/first_gem_david_fisher)
+[![Gem Version](https://badge.fury.io/rb/first_gem_david_fisher.png)](http://badge.fury.io/rb/first_gem_david_fisher)[![Build Status](https://travis-ci.org/tibbon/first_gem_david_fisher.png?branch=master)](https://travis-ci.org/tibbon/first_gem_david_fisher)[![Code Climate](https://codeclimate.com/github/tibbon/first_gem_david_fisher.png)](https://codeclimate.com/github/tibbon/first_gem_david_fisher)
 
 TODO: Write a gem description
 
