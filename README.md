@@ -1,5 +1,7 @@
 # FirstGemDavidFisher
 
+[![Gem Version](https://badge.fury.io/rb/first_gem_david_fisher.png)](http://badge.fury.io/rb/first_gem_david_fisher)
+
 TODO: Write a gem description
 
 ## Installation
